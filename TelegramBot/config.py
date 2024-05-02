@@ -1,4 +1,4 @@
-TOKEN = '7094846576:AAHq_MuanO2g1GL1txhrUVMLlqFdjprYrPw'
+TOKEN = 'sick'
 
 keys = {'доллар': 'USD',
         'рубль': 'RUB',
